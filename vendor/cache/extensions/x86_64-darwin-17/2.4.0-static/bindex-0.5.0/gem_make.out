@@ -1,0 +1,15 @@
+current directory: /Users/alexanderbalogh/Documents/R12019/hotel/vendor/cache/gems/bindex-0.5.0/ext/bindex
+/Users/alexanderbalogh/.rbenv/versions/2.4.4/bin/ruby -r ./siteconf20190327-50095-11199iq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/alexanderbalogh/Documents/R12019/hotel/vendor/cache/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/alexanderbalogh/Documents/R12019/hotel/vendor/cache/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/alexanderbalogh/Documents/R12019/hotel/vendor/cache/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20190327-50095-16fmaqs/bindex

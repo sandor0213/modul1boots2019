@@ -1,0 +1,15 @@
+current directory: /Users/alexanderbalogh/Documents/R12019/hotel/vendor/cache/gems/bootsnap-1.4.2/ext/bootsnap
+/Users/alexanderbalogh/.rbenv/versions/2.4.4/bin/ruby -r ./siteconf20190327-50095-tpdr5k.rb extconf.rb
+creating Makefile
+
+current directory: /Users/alexanderbalogh/Documents/R12019/hotel/vendor/cache/gems/bootsnap-1.4.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/alexanderbalogh/Documents/R12019/hotel/vendor/cache/gems/bootsnap-1.4.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/alexanderbalogh/Documents/R12019/hotel/vendor/cache/gems/bootsnap-1.4.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20190327-50095-2xmetw/bootsnap

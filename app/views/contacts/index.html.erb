@@ -1,0 +1,19 @@
+<table>
+  <thead>
+    <tr>
+      <th>tel</th>
+      <th>mail</th>
+      <th>address</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @contacts.each do |cont| %>
+      <tr>
+        <td><%= cont.tel %></td>
+        <td><%= cont.mail %></td>
+        <td><%= cont.address %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
